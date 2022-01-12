@@ -122,11 +122,10 @@ padding-top: 50px;
 }
 .box1 {
   display: flex;
-}
+  justify-content: space-between;
+ }
 .about ul {
   width: 505px;
-  margin-right: 105px;
-
 }
 .about li {
   height: 115px;
@@ -165,6 +164,8 @@ padding-top: 50px;
 }
 .about .comp>img {
   height: 630px;
+  width: 755px;
+  margin-left: auto;
 }
 .company {
   display: flex;
